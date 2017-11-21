@@ -163,7 +163,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/snimka-obrazovky-2017-11-21-o10.39.10-1400x875.png",
+              "src": "@PROJECT_PATH@/assets/images/snimka-obrazovky-2017-11-21-o10.40.16-600x375.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -238,7 +238,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/snimka-obrazovky-2017-11-21-o10.40.16-600x375.png",
+              "src": "@PROJECT_PATH@/assets/images/snimka-obrazovky-2017-11-21-o15.40.47-600x375.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
